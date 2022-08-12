@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wassimdouibi
-- 👀 I’m interested in developing web-sites
+- 👀 I’m interested in developing the front end websites
 - 🌱 I’m currently learning java script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me contact me with email: lw_douibi@esi.dz
