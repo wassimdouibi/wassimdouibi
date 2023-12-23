@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @wassimdouibi
 - 👀 I’m interested in developing the front end websites
-- 🌱 I’m currently learning java script
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning front-end development
 - 📫 How to reach me contact me with email: lw_douibi@esi.dz
 
 <!---
