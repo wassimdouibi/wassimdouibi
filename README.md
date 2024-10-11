@@ -4,7 +4,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Computer+science+student;Front-end%20web%20developer%20, %20IOT%20enthusiast;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=45&vCenter=true&pause=700&size=24" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Computer+science+student;Front-end%20web%20developer%20, %20Data%20enthusiast;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=45&vCenter=true&pause=700&size=24" /></a>
 </p>
 
 <br>
